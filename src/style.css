@@ -1,5 +1,5 @@
 /* ==========================================================================
-   EMMANUEL FZE - GLOBAL AGRICULTURAL TRADING DESIGN SYSTEM
+  EMMANUEL - GLOBAL AGRICULTURAL TRADING DESIGN SYSTEM
    ========================================================================== */
 
 :root {
@@ -480,7 +480,7 @@ h1, h2, h3, h4, h5, h6 {
   width: 100%;
   height: 100%;
   object-fit: cover;
-  object-position: 25% 35%;
+  object-position: 50% 35%;
   transform: scale(1.03);
   animation: heroZoom 25s infinite alternate ease-in-out;
 }
@@ -495,9 +495,9 @@ h1, h2, h3, h4, h5, h6 {
   inset: 0;
   background: linear-gradient(
     180deg,
-    rgba(18, 37, 23, 0.88) 0%,
-    rgba(18, 37, 23, 0.72) 50%,
-    rgba(11, 23, 14, 0.95) 100%
+    rgba(18, 37, 23, 0.72) 0%,
+    rgba(18, 37, 23, 0.62) 50%,
+    rgba(11, 23, 14, 0.88) 100%
   );
 }
 

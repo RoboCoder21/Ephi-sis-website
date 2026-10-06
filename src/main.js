@@ -567,7 +567,7 @@ function openSeedSpecModal(seedId) {
       </div>
 
       <div class="spec-trading-entity">
-        <span>Commercial Trading Entity: <strong>Emmanuel FZE</strong></span>
+        <span>Commercial Trading Entity: <strong>Emmanuel</strong></span>
         <span style="font-weight: 700;">Sharjah, UAE</span>
       </div>
     </div>
